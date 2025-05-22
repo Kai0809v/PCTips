@@ -7,6 +7,8 @@ cmd快捷键打开
 - 5、Ctrl+H：删除光标左边的一个字符；
 - 6、Ctrl+C Ctrl+Break，强行中止命令执行
 - 7、Ctrl+M：表示回车确认键；
-- 8、Alt+F7：清除所有曾经输入的命令历史记录
-- 9、Alt+PrintScreen：截取屏幕上当前命令窗里的内容。
 - Ctrl+L  history-c（初界面）清除历史记录
+- Ctrl+D :返回到上一级（如果在其他程序里面则看相关的怎么退出程序，比如在终端中的python用exit()）
+- Alt+F7：清除所有曾经输入的命令历史记录
+- Alt+PrintScreen：截取屏幕上当前命令窗里的内容。
+- 
